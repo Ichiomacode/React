@@ -14,4 +14,4 @@ in HTML attributes are used while in JSX event references in camelCase are used 
 
 
 
-Question 6 Because JSX is not valid JavaScript, browsers can't read it directly the does not know what to do with it, so we need a transpiler to translate it to React.
+#######Question 6 Because JSX is not valid JavaScript, browsers can't read it directly the does not know what to do with it, so we need a transpiler to translate it to React.
